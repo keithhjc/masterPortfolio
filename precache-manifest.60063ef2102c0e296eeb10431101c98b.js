@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "46436b1041aebf9254f4ec819e9ad927",
+    "revision": "f1756fa39fd12c10393734b4ad7bf92e",
     "url": "/index.html"
   },
   {
-    "revision": "936e058d0d1a97c81313",
+    "revision": "67df0b6178c8805ebdd2",
     "url": "/static/css/2.7ee6590a.chunk.css"
   },
   {
-    "revision": "2568b26d9e616a5ef6d5",
+    "revision": "58071803c4c771402ce5",
     "url": "/static/css/main.1cd92d47.chunk.css"
   },
   {
-    "revision": "936e058d0d1a97c81313",
-    "url": "/static/js/2.0ee83f33.chunk.js"
+    "revision": "67df0b6178c8805ebdd2",
+    "url": "/static/js/2.15d3dcc0.chunk.js"
   },
   {
-    "revision": "2568b26d9e616a5ef6d5",
-    "url": "/static/js/main.4a5fbdd2.chunk.js"
+    "revision": "58071803c4c771402ce5",
+    "url": "/static/js/main.3f6a5d23.chunk.js"
   },
   {
     "revision": "bb46e19001589a1f79dc",
@@ -110,6 +110,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d9c97ff6745af32b3fe736909a523099",
     "url": "/static/media/coolbins_banner.d9c97ff6.jpg"
+  },
+  {
+    "revision": "c18e1c9576729d2e2843c3c0da66cbb7",
+    "url": "/static/media/cordlabs-home.c18e1c95.png"
   },
   {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
@@ -222,6 +226,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "294fbbd866b7a1d5ab310db7971220da",
     "url": "/static/media/hackwagon-logo.294fbbd8.png"
+  },
+  {
+    "revision": "af32bd5ed4eb083f4d75af28387a5be8",
+    "url": "/static/media/harvard_shield_wreath.af32bd5e.png"
   },
   {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
